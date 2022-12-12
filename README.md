@@ -1,4 +1,4 @@
-DATA CLUSTERING SIMULATION WITH PYGAME
+🚀🚀DATA CLUSTERING SIMULATION WITH PYGAME🚀🚀
 
 
 - I coded this simulation by Python on Jupyter Notebook. There are 02 main pieces of knowledge I have to grasp to complete this program, which are K-means clustering and how to use Pygame. In general, this program helps you to group all the dots you input on the screen by the number of groups(K) that are already set. 
