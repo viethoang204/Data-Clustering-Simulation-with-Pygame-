@@ -6,7 +6,7 @@
 - There are 04 steps to use this one:
   + Step 01: click on the panel of all the dots that you want to group.
   + Step 02: adjust "K" by using "+" and "-" buttons, this is the number of groups that you want the computer to group your dots.
-  + Step 03: press the "random" button to generate randomly the number of K groups.
+  + Step 03: press the "random" button to generate randomly K clusters
   + Step 04: press the "run" until the error index is the lowest.
   Note: error index is the sum of all the distances between the dots and the clusters that you set.
   
